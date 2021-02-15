@@ -1,6 +1,8 @@
-body {background-color: white;
+.container {background-color: white;
+  text-align: center;}
 margin: 0 auto;}
 h1 {color: grey;
+  font-family: Arial;
   text-align: center;}
 
 
